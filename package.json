@@ -44,10 +44,10 @@
     "url": "https://github.com/parseplatform/parse-cloud-express/issues"
   },
   "dependencies": {
-    "body-parser": "~1.12",
-    "express": "~4.9",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "parse": "~1.7",
-    "request": "~2.61"
+    "request": "^2.88.0"
   },
   "description": "Express middleware and utilities for Parse.com Cloud Code functionality in Node.js",
   "homepage": "https://github.com/parseplatform/parse-cloud-express",
@@ -63,5 +63,5 @@
     "type": "git",
     "url": "git+https://github.com/parseplatform/parse-cloud-express.git"
   },
-  "version": "1.2.0"
+  "version": "1.2.1"
 }
